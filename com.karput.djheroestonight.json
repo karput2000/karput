@@ -1,0 +1,14 @@
+{
+	"banner": "ca-app-pub-5658505460340859/5596740484",
+	"banner_show": "true",
+	"interstitial": "ca-app-pub-5658505460340859/7660916607",
+	"interstitial_show": "false",
+	"interstitial_count": "3",
+	"native": "",
+	"native_show": "false",
+	"interval_native": "200",
+	"open_app": "ca-app-pub-5658505460340859/9234934293",
+	"open_app_show": "false",
+	"package_name": "com.karput.djheroestonight",
+	"status": "0"
+}
