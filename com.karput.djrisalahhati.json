@@ -2,13 +2,13 @@
 	"banner": "ca-app-pub-5658505460340859/6227457574",
 	"banner_show": "true",
 	"interstitial": "ca-app-pub-5658505460340859/8874636368",
-	"interstitial_show": "true",
+	"interstitial_show": "false",
 	"interstitial_count": "3",
 	"native": "",
 	"native_show": "false",
 	"interval_native": "200",
 	"open_app": "ca-app-pub-5658505460340859/3622309683",
-	"open_app_show": "true",
+	"open_app_show": "false",
 	"package_name": "com.karput.djrisalahhati",
 	"status": "0"
 }
