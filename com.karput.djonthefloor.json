@@ -8,7 +8,7 @@
 	"native_show": "false",
 	"interval_native": "200",
 	"open_app": "ca-app-pub-5658505460340859/3663661961",
-	"open_app_show": "true",
+	"open_app_show": "false",
 	"package_name": "com.karput.djonthefloor",
 	"status": "0"
 }
